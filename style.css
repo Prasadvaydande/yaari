@@ -1,0 +1,93 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+.navbar{
+ display: flex;
+ justify-content:space-between;
+ align-items: center;
+
+}
+.nav-links{
+ display:flex ;
+ margin-right: 84px;
+ 
+
+}
+.list a{
+ font-size: 1.5rem;
+ margin: 10px 15px;
+ text-decoration: none;
+ color: black;
+}
+.list{
+ list-style: none;
+ margin: 10px 19px;
+}
+.main1{
+ background-color: rgb(187, 184, 184);
+ margin: 10px 125px;
+ height: 300px;
+ position: relative;
+ 
+ 
+}
+.logo img{
+ margin: 10px 102px;
+}
+#get{
+ font-family: 'Poppins', sans-serif;
+ font-size: 1.8rem;
+ font-weight: 500;
+padding-left: 10px ;
+padding-top: 10px;
+
+}
+#yaarified{
+ font-family: 'Bebas Neue', cursive;
+ font-size: 3.7rem;
+ font-style: oblique;
+ margin: -3px 0px;
+}
+#designes{
+ font-family: 'Oswald', sans-serif;
+ font-size: 1.5rem;
+ padding-left:10px;
+ 
+}
+.para{
+ position: absolute;
+ top: 88px;
+}
+.btn{
+margin-left: 10px;
+margin-top: 10px;
+ border: 5px solid violet;
+ border-radius: 10px;
+ color: blueviolet;
+ padding: 3px 8px;
+ background-color:  rgb(187, 184, 184);
+ font-size: 20px;
+}
+#T-shirt{
+ width: 700px;
+ position: absolute;
+ left: 600px;
+ 
+}
+#foot{
+ width: 300px;
+ font-family: 'Bebas Neue', cursive;
+ font-size: 15rem;
+ font-style: oblique;
+ color: rgb(214, 210, 210);
+ margin: -29px 22px;
+}
+.list a:hover{
+text-decoration: underline;
+color: blueviolet;
+}
+#shop{
+    text-decoration: none;
+    color:blueviolet;
+}
